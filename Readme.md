@@ -7,12 +7,12 @@ Outline of the project for Unit 2 using React & Redux.
 * A landing page with the products display.
 * Add pagination like the picture below:
 
-<img src="pagination.png" width="300"/>
+<img src="pagination.png" width="500"/>
 
 * Filtration should be added to filter through the categories of the products 
 For example:
 
-<img src="filter.png" width="200"/>
+<img src="filter.png" width="300"/>
 
 
 * Add items to wish list and display them in a page.
@@ -28,4 +28,4 @@ For example:
 ## Bonus 
 * Add review to each products with comment and star rating 
 
-<img src="Review.png" width="300px"/>
+<img src="Review.png" width="400px"/>
